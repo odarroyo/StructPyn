@@ -7,7 +7,8 @@ StructPyn_Website is a web application designed to generate the capacity curve o
 1. [Project Structure](#project-structure)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [License](#license)
+4. [Demostration Video](#demostration-video)
+6. [License](#license)
 
 ## Project Structure
 
@@ -41,12 +42,12 @@ To run the platform, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/username/StructPyn_Website.git
+    git clone https://github.com/DanielaNovoa15/StructPyn.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd StructPyn_Website/
+    cd StructPyn/
     ```
 
 3. Install the required libraries:
@@ -71,6 +72,11 @@ To run the model:
     ```
 
 4. Open your web browser and go to `http://localhost:5000` to access the platform.
+
+## Demostration Video
+
+For a better understanding of how models are generated on our platform, we invite you to watch the following demonstration video:
+https://youtu.be/wEHps176Kpw
 
 ## License
 
